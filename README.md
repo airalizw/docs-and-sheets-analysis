@@ -17,9 +17,8 @@ This project focuses on analyzing sales data and communicating insights through 
 - Strengthened ability to summarize KPIs, highlight outliers, and recommend business actions
 - Developed a workflow for connecting visual dashboards to written reports
 
-## 🔗 View the Google Doc
-[Link to the Doc (Make sure it’s view-only)](https://docs.google.com/document/yourdoclinkhere)
-
+## 🔗 View the Google Sheet
+[Click here to view the full dashboard and analysis in Google Sheets (view-only)](https://docs.google.com/spreadsheets/d/1bn5nzHz7EXV3wVNV2xRzGi1kJ9kncvZ2f5Y8sIJW2YA/edit?usp=sharing)
 ---
 
 📁 Coming soon: more projects using Google Workspace tools for analysis, dashboards, and client reporting.
